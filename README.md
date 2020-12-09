@@ -1,0 +1,1 @@
+# print-odd-numbers-from-1-to-n-where-n-is-100-even-odd-noumber-prime-numer-
